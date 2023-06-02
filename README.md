@@ -1,2 +1,2 @@
 # Quiz-App
-This project making using html, css and javascript
+This project Quiz app make using HTML, CSS, and Javascript.
